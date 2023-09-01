@@ -5,38 +5,38 @@ The original dataset of nearly 300 variables was reduced to just about 18 variab
 
 The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In machine learning projects, "HeartDisease" can be used as the explonatory variable, but note that the classes are heavily unbalanced.
 
-HeartDisease: Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI)
+1.HeartDisease: Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI)
 
-BMI: Body Mass Index (BMI)
+2.BMI: Body Mass Index (BMI)
 
-Smoking: Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes]
+3.Smoking: Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes]
 
-AlcoholDrinking: Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week
+4.AlcoholDrinking: Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week
 
-Stroke: (Ever told) (you had) a stroke?
+5.Stroke: (Ever told) (you had) a stroke?
 
-PhysicalHealth: Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical
+6.PhysicalHealth: Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical
 
-MentalHealth: Thinking about your mental health, for how many days during the past 30 days was your mental health not good?
+7.MentalHealth: Thinking about your mental health, for how many days during the past 30 days was your mental health not good?
 
-DiffWalking: Do you have serious difficulty walking or climbing stairs?
+8.DiffWalking: Do you have serious difficulty walking or climbing stairs?
 
-Sex: Are you male or female?
+9.Sex: Are you male or female?
 
-AgeCategory: Fourteen-level age category
+10.AgeCategory: Fourteen-level age category
 
-Race: Imputed race/ethnicity value
+11.Race: Imputed race/ethnicity value
 
-Diabetic: (Ever told) (you had) diabetes?
+12.Diabetic: (Ever told) (you had) diabetes?
 
-PhysicalActivity: Adults who reported doing physical activity or exercise during the past 30 days other than their regular job
+13.PhysicalActivity: Adults who reported doing physical activity or exercise during the past 30 days other than their regular job
 
-GenHealth: Would you say that in general your health is..
+14.GenHealth: Would you say that in general your health is..
 
-SleepTime: On average, how many hours of sleep do you get in a 24-hour period?
+15.SleepTime: On average, how many hours of sleep do you get in a 24-hour period?
 
-Asthma: (Ever told) (you had) asthma?
+16.Asthma: (Ever told) (you had) asthma?
 
-Kidney Disease: Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?
+17.Kidney Disease: Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?
 
-SkinCancer: (Ever told) (you had) skin cancer?
+18.SkinCancer: (Ever told) (you had) skin cancer?
